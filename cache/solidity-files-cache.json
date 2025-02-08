@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/wangyi/github/web3/dapp-dex-example/contracts/SimpleStorage.sol": {
+      "lastModificationDate": 1738993293075,
+      "contentHash": "8dcaa1e8fbc891c57614345d862c4c42",
+      "sourceName": "contracts/SimpleStorage.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "SimpleStorage"
+      ]
+    }
+  }
+}
